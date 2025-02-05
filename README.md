@@ -1,4 +1,4 @@
-# # Parent Repository for Git Subtree Testing
+# Parent Repository for Git Subtree Testing
 
 This repository was created to experiment with and test the functionality of Git subtrees. It serves as the **parent repository**, which means it will include and manage one or more sub-repositories using Git's subtree feature.
 
